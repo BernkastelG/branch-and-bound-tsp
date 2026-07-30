@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="branch-and-bound-tsp/branch-and-bound-tsp.vcxproj" />
+  <Project Path="MatrixGen/MatrixGen.vcxproj" />
+</Solution>

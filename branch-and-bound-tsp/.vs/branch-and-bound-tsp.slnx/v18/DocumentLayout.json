@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bernkastel_S\\Desktop\\\u0422\u041F\u0421\u0410\u041F\u0420\\branch-and-bound-tsp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC0D70-0082-434B-9802-04F1CB489DA6}|MatrixGen\\MatrixGen.vcxproj|C:\\Users\\Bernkastel_S\\Desktop\\\u0422\u041F\u0421\u0410\u041F\u0420\\branch-and-bound-tsp\\MatrixGen\\MatrixGen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92CC0D70-0082-434B-9802-04F1CB489DA6}|MatrixGen\\MatrixGen.vcxproj|solutionrelative:MatrixGen\\MatrixGen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1066CEE3-0D42-40E1-AFCA-08B36C582D51}|branch-and-bound-tsp\\branch-and-bound-tsp.vcxproj|C:\\Users\\Bernkastel_S\\Desktop\\\u0422\u041F\u0421\u0410\u041F\u0420\\branch-and-bound-tsp\\branch-and-bound-tsp\\branch-and-bound-tsp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1066CEE3-0D42-40E1-AFCA-08B36C582D51}|branch-and-bound-tsp\\branch-and-bound-tsp.vcxproj|solutionrelative:branch-and-bound-tsp\\branch-and-bound-tsp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixGen.cpp",
+              "DocumentMoniker": "C:\\Users\\Bernkastel_S\\Desktop\\\u0422\u041F\u0421\u0410\u041F\u0420\\branch-and-bound-tsp\\MatrixGen\\MatrixGen.cpp",
+              "RelativeDocumentMoniker": "MatrixGen\\MatrixGen.cpp",
+              "ToolTip": "C:\\Users\\Bernkastel_S\\Desktop\\\u0422\u041F\u0421\u0410\u041F\u0420\\branch-and-bound-tsp\\MatrixGen\\MatrixGen.cpp",
+              "RelativeToolTip": "MatrixGen\\MatrixGen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-30T21:07:54.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "branch-and-bound-tsp.cpp",
+              "DocumentMoniker": "C:\\Users\\Bernkastel_S\\Desktop\\\u0422\u041F\u0421\u0410\u041F\u0420\\branch-and-bound-tsp\\branch-and-bound-tsp\\branch-and-bound-tsp.cpp",
+              "RelativeDocumentMoniker": "branch-and-bound-tsp\\branch-and-bound-tsp.cpp",
+              "ToolTip": "C:\\Users\\Bernkastel_S\\Desktop\\\u0422\u041F\u0421\u0410\u041F\u0420\\branch-and-bound-tsp\\branch-and-bound-tsp\\branch-and-bound-tsp.cpp",
+              "RelativeToolTip": "branch-and-bound-tsp\\branch-and-bound-tsp.cpp",
+              "ViewState": "AgIAAHIBAAAAAAAAAADwv4oBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-30T21:06:22.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
